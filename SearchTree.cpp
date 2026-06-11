@@ -61,6 +61,8 @@ class BinaryTree
 
     void search(string element, Node *&parent, Node *&currentnode)
     {
+        currentnode = ROOT;
+        parent = NULL;
     };
 };
 
