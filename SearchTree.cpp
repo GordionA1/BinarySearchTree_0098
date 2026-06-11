@@ -74,6 +74,11 @@ class BinaryTree
                 currentnode = currentnode->rightchild;
         }
     }
+
+     void inorder(Node *ptr)
+    {
+
+    }
 };
 
 
