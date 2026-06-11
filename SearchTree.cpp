@@ -106,6 +106,11 @@ class BinaryTree
             preorder(ptr->rightchild);
         }
     }
+
+     void postorder(Node *ptr)
+    {
+
+    }
 };
 
 
